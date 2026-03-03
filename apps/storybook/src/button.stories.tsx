@@ -30,3 +30,25 @@ export const Outline: Story = {
     children: "Outline"
   }
 }
+
+export const Destructive: Story = {
+  args: {
+    variant: "destructive",
+    children: "Destructive"
+  }
+}
+
+export const Disabled: Story = {
+  args: {
+    disabled: true,
+    children: "Disabled"
+  }
+}
+
+export const Loading: Story = {
+  args: {
+    disabled: true,
+    "aria-busy": true,
+    children: "Loading..."
+  }
+}

@@ -2,6 +2,9 @@
 @import "../../../packages/tokens/src/theme.css";
 @import "../../../packages/ui/src/styles.css";
 
+@source "../../../packages/ui/src/**/*.{ts,tsx}";
+@source "../../../packages/design-system/src/**/*.{ts,tsx}";
+
 :root {
   color-scheme: light dark;
 }

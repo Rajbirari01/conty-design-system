@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  color: hsl(var(--foreground));
-  background: hsl(var(--background));
+  color: var(--foreground);
+  background: var(--background);
   font-family: Inter, system-ui, sans-serif;
 }
