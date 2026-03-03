@@ -1,0 +1,36 @@
+{
+  "name": "@conty/ui",
+  "version": "0.0.0",
+  "private": false,
+  "description": "Conty UI components",
+  "type": "module",
+  "files": [
+    "dist",
+    "src/styles.css"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./styles.css": "./src/styles.css"
+  },
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --dts --clean --external react --external react-dom",
+    "lint": "eslint src --ext .ts,.tsx",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@conty/tokens": "*",
+    "@radix-ui/react-slot": "^1.2.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.3.1"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

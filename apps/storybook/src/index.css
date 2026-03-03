@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "../../../packages/tokens/src/theme.css";
+@import "../../../packages/ui/src/styles.css";
+
+:root {
+  color-scheme: light dark;
+}

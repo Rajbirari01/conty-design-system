@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: hsl(var(--foreground));
+  background: hsl(var(--background));
+  font-family: Inter, system-ui, sans-serif;
+}

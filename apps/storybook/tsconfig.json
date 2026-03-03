@@ -1,0 +1,12 @@
+{
+  "extends": "@conty/tsconfig/react-library.json",
+  "compilerOptions": {
+    "types": ["node"],
+    "baseUrl": ".",
+    "paths": {
+      "@conty/ui": ["../../packages/ui/src/index.ts"],
+      "@conty/tokens": ["../../packages/tokens/src/index.ts"]
+    }
+  },
+  "include": ["src", ".storybook"]
+}
