@@ -47,6 +47,26 @@ npm run storybook
 - `npm run version-packages`: aplica versionamento.
 - `npm run release`: publica pacotes via Changesets.
 
-## Integracao com conty-web
+## Atalhos de documentacao
 
-Guia em `docs/integration-conty-web.md`.
+- `docs/roadmap-publico.md`: visao simples do que estamos construindo e como contribuir.
+- `docs/como-contribuir.md`: fluxo de contribuicao e checklist de PR.
+- `docs/seguranca.md`: regras basicas de seguranca para codigo e release.
+- `docs/qualidade.md`: checks minimos de qualidade.
+- `docs/organizacao-repo.md`: convencoes de organizacao do monorepo.
+- `docs/release-process.md`: passo a passo de release.
+
+## Cursor Rules
+
+As regras usadas pelo Cursor ficam em `.cursor/rules/`:
+
+- `.cursor/rules/como-trabalhar.mdc`
+- `.cursor/rules/seguranca.mdc`
+- `.cursor/rules/qualidade.mdc`
+- `.cursor/rules/organizacao-repo.mdc`
+
+Essas regras ajudam a manter contribuicoes simples, claras e consistentes.
+
+## Roadmap
+
+- Publico (comunidade): `docs/roadmap-publico.md`

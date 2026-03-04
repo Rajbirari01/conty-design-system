@@ -1,0 +1,19 @@
+---
+description: Checklist minimo de qualidade para codigo e UI
+alwaysApply: true
+---
+
+# Qualidade
+
+## Checklist minimo por mudanca
+- Rodar `npm run lint`.
+- Rodar `npm run typecheck`.
+- Rodar `npm run build`.
+
+## Para UI e tokens
+- Atualizar ou criar story relevante no Storybook.
+- Evitar hardcode visual novo; usar tokens.
+- Descrever como validar o comportamento alterado.
+
+## Para mudancas versionaveis
+- Criar changeset com `npm run changeset` quando aplicavel.
