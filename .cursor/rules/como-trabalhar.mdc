@@ -1,0 +1,24 @@
+---
+description: Regras simples para manter entregas pequenas e claras
+alwaysApply: true
+---
+
+# Como Trabalhar
+
+## Objetivo
+Manter o repo evoluindo com mudancas pequenas, revisaveis e com impacto claro.
+
+## Regras
+- Entregar mudancas pequenas e focadas.
+- Explicar o motivo da mudanca no PR.
+- Preservar compatibilidade publica de `@conty/design-system`, `@conty/ui` e `@conty/tokens`.
+- Evitar refatoracao ampla sem necessidade do escopo.
+- Se mudou comportamento, atualizar docs ou exemplos.
+- Preferir solucoes simples antes de abstrair.
+- Usar nomes claros e sem ambiguidade para arquivos, simbolos e APIs.
+- Evitar abreviacoes confusas e nomes genericos.
+
+## Pronto quando
+- Compila e passa os checks necessarios.
+- Impacto (API, visual ou release) esta descrito.
+- Passos de teste local foram informados.

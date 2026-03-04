@@ -32,3 +32,12 @@ npm run build
 ```bash
 npm run release
 ```
+
+## Guias relacionados
+
+Antes de publicar, alinhar com:
+
+- `docs/como-contribuir.md`
+- `docs/seguranca.md`
+- `docs/qualidade.md`
+- `docs/organizacao-repo.md`
