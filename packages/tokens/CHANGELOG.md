@@ -1,5 +1,11 @@
 # @conty/tokens
 
+## 0.1.0
+
+### Minor Changes
+
+- ac79b60: Atualiza README dos pacotes no npm
+
 ## 0.0.2
 
 ### Patch Changes

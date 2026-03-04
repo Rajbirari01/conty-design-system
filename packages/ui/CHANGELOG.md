@@ -1,5 +1,16 @@
 # @conty/ui
 
+## 0.2.0
+
+### Minor Changes
+
+- ac79b60: Atualiza README dos pacotes no npm
+
+### Patch Changes
+
+- Updated dependencies [ac79b60]
+  - @conty/tokens@0.1.0
+
 ## 0.1.0
 
 ### Minor Changes
